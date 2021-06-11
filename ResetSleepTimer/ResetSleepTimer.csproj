@@ -79,7 +79,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="README.MD" />
     <None Include="Resources\logo.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
